@@ -17,6 +17,12 @@
       "day": "Friday",
       "reminder": true,
       "id": 3
+    },
+    {
+      "text": "Walk the dogs",
+      "day": "Today",
+      "reminder": false,
+      "id": 4
     }
   ]
 }
